@@ -1,0 +1,8 @@
+.env
+data/
+charts/
+output/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+dynamic_supply_chain_logistics_dataset.csv
